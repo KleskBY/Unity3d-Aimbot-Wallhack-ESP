@@ -1,5 +1,5 @@
 # Generic Unity3D hack
-Shitty simple contract wars hack. Can be used by begginers for cheating in Unity3D games.<br>
+Shitty simple contract wars hack. Can be used by beginners for cheating in Unity3D games.<br>
 <br>
 
 <b>Features:</b><br>
