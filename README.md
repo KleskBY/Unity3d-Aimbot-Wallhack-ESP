@@ -1,6 +1,6 @@
 # Generic Unity3D hack
 Shitty simple contract wars hack. Can be used by begginers for cheating in Unity3D games.<br>
-Credits: KleskBY.<br><br>
+<br>
 
 <b>Features:</b><br>
 - Aimbot<br>
