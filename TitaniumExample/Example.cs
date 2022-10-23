@@ -201,7 +201,6 @@ public class Hacks : MonoBehaviour
         else Button10 = MenuItemStyle;
 
         GUI.DrawTexture(new Rect(0, 0, 350, 20), hoverbackground);
-        GUI.Label(new Rect(60, 0, 350, 20), "INTERIUM.OOO © KleskBY 2019", TextStyle);
         GUI.Label(new Rect(39, 20, 140, 20), "TARGET TEAM:", TextStyle);
         if (GUI.Button(new Rect(20, 40, 140, 20), "USEC", Button1))
         {
