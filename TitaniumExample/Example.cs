@@ -603,7 +603,7 @@ public class Hacks : MonoBehaviour
         GUI.Label(new Rect(10, 100, 200, 20), Shit1);
         try
         {
-            if (menu) rc = GUI.Window(0, rc, new GUI.WindowFunction(GI), "INTERIUM.OOO © KleskBY 2019");
+            if (menu) rc = GUI.Window(0, rc, new GUI.WindowFunction(GI), "Trash");
             foreach (GameObject gameObj in badguys)
             {
                 Transform[] allChildren = gameObj.transform.GetComponentsInChildren<Transform>();
